@@ -989,7 +989,7 @@ class SOTDLProgram {
             SOTDLUtils.log("Creating SOTDL Parse button.");
 
             parseButton = document.createElement("button");
-            parseButton.innerHTML = `<i id="SOTDL-parse-button" class="fas fa-dragon"></i>Parse SOTDL Creature`;
+            parseButton.innerHTML = `<i id="SOTDL-parse-button" class="fas fa-dragon"></i>Parse SOTDL Content`;
             parseButton.onclick = ev => SOTDLProgram.openParser();
 
             const createEntityButton = actorFooter.getElementsByClassName("create-entity")[0];
