@@ -1,2 +1,2 @@
-# sdlc-content-importer
-sdlc - content importer
+# sdlc-creature-parser
+sdlc  creature parser
