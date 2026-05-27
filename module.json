@@ -2,10 +2,10 @@
   "id": "sdlc-content-importer",
   "title": "SDLC - Content Importer",
   "description": "Parser to Import Content of Shadow of the Demon Lord",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "compatibility": {
     "minimum": "13",
-    "verified": "13"
+    "verified": "14"
   },
   "authors": [
     {
